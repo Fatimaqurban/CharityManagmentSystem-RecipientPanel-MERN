@@ -1,0 +1,65 @@
+/* RecipientDetails.css */
+
+.all_screen_padding {
+    padding: 20px;
+  }
+
+  
+#profile-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  #profile-information {
+    display: flex;
+    align-items: center;
+  }
+  
+  .img-dim {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .round-image {
+    border-radius: 50%;
+  }
+  
+  .user-details-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-details-content {
+    display: flex;
+  }
+  
+  .user-details-column {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .profile-image {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 8px;
+  }
+  
+  .btn_dark_bg {
+    background-color: #343a40;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  /* Add more styles as needed */
+  
